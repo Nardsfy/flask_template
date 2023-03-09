@@ -1,0 +1,7 @@
+MYPROJECT_TITLE = "Flask template"
+SECRET_KEY = ""
+
+HOST_DB = ""
+DATABASE_DB = ""
+USER_DB = ""
+PASSWORD_DB = ""
